@@ -1,0 +1,75 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.6504,
+                    35.0844
+                ]
+            },
+            "properties": {
+                "name": "Albuquerque, NM",
+                "description": "Birthplace"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.1796,
+                    46.7314
+                ]
+            },
+            "properties": {
+                "name": "Pullman, WA",
+                "description": "Alma Mater"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.7898,
+                    46.8772
+                ]
+            },
+            "properties": {
+                "name": "Fargo, ND",
+                "description": "First Academic position"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.0002,
+                    46.7324
+                ]
+            },
+            "properties": {
+                "name": "Moscow, ID",
+                "description": "Currently residing"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.0268,
+                    17.7425
+                ]
+            },
+            "properties": {
+                "name": "Caye Caulker, Belize",
+                "description": "Second home"
+            }
+        }
+    ]
+}
